@@ -1,2 +1,2 @@
 # LZCGXT.github.io
-05270710
+log with GXT
